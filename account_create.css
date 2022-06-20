@@ -1,0 +1,33 @@
+body{
+	margin:0;
+	padding:0;
+	background-size: cover;
+	background:url(Home.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center;
+	font-family: sans-serif;
+}
+.account_c{
+	font-size:60px;
+	color: blue;
+	position:absolute;
+	top: 130px;
+	left: 320px;
+}
+.log_out{
+	font-family: sans-serif;
+	border:none;
+	outline:none;
+	height:40px;
+	background:#fb2525;
+	color:#fff;
+	font-size: 22px;
+	border-radius:20px;
+	position:absolute;
+	top: 10px;
+	right:20;
+}
+.log_out:hover{
+	color:#FFFF00;
+}

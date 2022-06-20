@@ -1,0 +1,185 @@
+body{
+	margin:0;
+	padding:0;
+	background-size: cover;
+	background:url(login_background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center;
+	font-family: sans-serif;
+}
+h1{
+	text-align:center;
+	font-size:22px;
+	
+}
+.register_icon{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	position:absolute;
+	top: -50px;
+	left: 110px;
+}
+.registerbox{
+	width:320px;
+	height:1070px;
+	background:rgba(0,0,0,0.5);
+	color:#fff;
+	top:90%;
+	left:50%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	padding: 70px 30px;
+	
+}
+.registerbox p{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+}
+.registerbox input[type="text"],input[type="password"]{
+	width: 90%;
+	margin-bottom:20px;
+}
+.drop{
+	width: 90%;
+	margin-bottom:20px;
+	font-size: 16px;
+}
+
+.registerbox input[type="submit"]
+{
+
+    position: relative;
+    top: 10px;
+    left: 55px;
+	border:none;
+	outline:none;
+	height:40px;
+	width:150px;
+	background:#fb2525;
+	color:#fff;
+	font-size: 20px;
+	border-radius:20px;
+}
+.registerbox input[type="text"], input[type="password"]
+{
+	border:none;
+	border-bottom:1px solid #fff;
+	background: transparent;
+	outline:none;
+	height:40px;
+	color:#fff;
+	font-size: 16px;
+}
+.registerbox input[type="radio"]
+{
+	border:none;
+	outline:none;
+	margin:0;
+	padding:0;
+}
+.registerbox{
+	float:right;
+}
+.registerbox input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #ffc107;
+	color:#000;
+}
+.warning1{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 193px;
+}
+.warning2{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 270px;
+}
+.warning3{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 270px;
+}
+.warning4{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 347px;
+}
+.warning5{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 424px;
+}
+.warning6{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 501px;
+}
+.warning7{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 501px;
+}
+.warning8{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 595px;
+}
+.warning9{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 655px;
+}
+.warning10{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 655px;
+}
+.warning11{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 655px;
+}
+.warning12{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 655px;
+}
+.warning13{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 723px;
+}
+.warning14{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 800px;
+}
+.warning15{
+	color:red;
+	font-weight:bold;
+	position:relative;
+	top: 877px;
+}
+
+
+
